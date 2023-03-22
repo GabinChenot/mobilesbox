@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 10px;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.marge {
+  margin-bottom: 500px;
+}
